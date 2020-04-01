@@ -4,7 +4,7 @@
 
 #### A simple application written in C++ for university project
 
-Program that by applying several alghorithms prints out the following:
+Program that by applying several algorithms prints out the following:
 
 - 10 first numbers
 - even numbers from 1 to 20
